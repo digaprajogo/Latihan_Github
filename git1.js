@@ -2,12 +2,7 @@
 // recursive function
 
 function Pangkat(x,y){
-        if (y == 1) {
-            return x;     
-        }     
-        else {
-            return x=x*Pangkat(x,y-1);     
-        } 
+        return x ** y
     } 
 
 console.log(Pangkat(7,2))
