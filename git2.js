@@ -5,4 +5,6 @@
 // jika kerjaan budi salah masih bisa untuk di delete dan tidak perlu di merged ke branch utama
 
 var nama = 'Andi'
+var nama2 = 'budi'
 console.log(nama)
+console.log(nama2)
