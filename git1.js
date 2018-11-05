@@ -2,7 +2,7 @@
 // recursive function
 
 function Pangkat(x,y){
-        return x ** y
+        return Math.pow(x,y)
     } 
 
 console.log(Pangkat(7,2))
@@ -11,3 +11,5 @@ console.log(Pangkat(7,2))
 // recursive
 // return x ** y
 // return math.pow(x,y)
+
+// KALO commit DISARANKAN pake git commit -m "deskripsi"
